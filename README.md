@@ -1,15 +1,14 @@
 # fritzing-parts
 
-Fritzing parts for the **piclone** circuit.
-
-This repository contains custom Fritzing part files used to design and document the piclone hardware project.
+Fritzing parts for the various circuits documented in this organization's repositories.
 
 ## Contents
 
 | File | Description |
 |------|-------------|
-| `parts/6502.fzz` | Fritzing part for the 6502 microprocessor |
-| `parts/ramchip.fzz` | Fritzing part for the RAM chip |
+| `parts/WDC-6502.fzz` | WDC 6502 microprocessor |
+| `parts/Hitachi-HM62256.fzz` | Hitachi HM62256 RAM |
+| `parts/SST-SST39SF010A.fzz` | SST SST39SF010A ROM |
 
 ## Usage
 
@@ -23,7 +22,7 @@ This repository contains custom Fritzing part files used to design and document 
 
 ## Contributing
 
-Contributions are welcome! If you have improvements or additional parts for the piclone project, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have improvements or additional parts, feel free to open an issue or submit a pull request.
 
 ## License
 
