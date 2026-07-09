@@ -1,4 +1,4 @@
-# fritzing-parts
+# **Fritzing-parts**
 
 Fritzing parts for the various circuits documented in this organization's repositories.
 
